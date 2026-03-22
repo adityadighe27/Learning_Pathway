@@ -1,8 +1,5 @@
 # 🚀 MentorMap – Visual Learning Pathways for Tech Learners
 
-
-📦 **GitHub Repo**: [[github.com/AbhinandanPatil02/Learning_Pathway_Project](https://github.com/adityadighe27/Learning_Pathway/)](https://github.com/AbhinandanPatil02/Learning_Pathway_Project)
-
 ---
 
 ## 📚 About MentorMap
