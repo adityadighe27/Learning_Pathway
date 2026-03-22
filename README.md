@@ -1,7 +1,7 @@
 # 🚀 MentorMap – Visual Learning Pathways for Tech Learners
 
-🔗 **Live Project**: [learning-pathway-project.vercel.app](https://learning-pathway-project.vercel.app/)  
-📦 **GitHub Repo**: [github.com/AbhinandanPatil02/Learning_Pathway_Project](https://github.com/AbhinandanPatil02/Learning_Pathway_Project)
+
+📦 **GitHub Repo**: [[github.com/AbhinandanPatil02/Learning_Pathway_Project](https://github.com/adityadighe27/Learning_Pathway/)](https://github.com/AbhinandanPatil02/Learning_Pathway_Project)
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 🧑‍💻 Developer
 
-Built with ❤️ by **Abhinandan Anil Patil**  
+Built with ❤️ by **Aditya Dighe**  
 
 
 ---
@@ -53,7 +53,7 @@ Built with ❤️ by **Abhinandan Anil Patil**
 
 ```bash
 # Clone the repo
-git clone https://github.com/AbhinandanPatil02/Learning_Pathway_Project.git
+git clone https://github.com/adityadighe27/Learning_Pathway.git
 cd Learning_Pathway_Project
 
 # Install server dependencies
