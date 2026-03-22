@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+
+/* Contact Us Component Styling */
+.contact-us {
+  max-width: 1000px;  /* Increased form width */
+  min-width: 600px;   /* Ensuring it doesn't shrink too much */
+}
+
+.contact-icon {
+  max-width: 150px;  /* Made the icon slightly bigger */
+}
+
+
+/* Form Customization */
+.contact-us .form-control {
+  font-family: 'Lemon', cursive;
+  padding: 15px;  /* Increased padding for better readability */
+  font-size: 1.2rem; /* Larger font size */
+}
+
+/* Textarea Styling */
+.contact-us textarea {
+  min-height: 200px; /* Increased height */
+}
+
+/* Button Customization */
+.contact-us .btn-success {
+  background: #ff7f50;
+  border: none;
+  font-size: 1.2rem;
+  padding: 15px;
+  transition: background 0.3s ease;
+}
+
+.contact-us .btn-success:hover {
+  background: #ff6347;
+}
+
+
+
+.contact-container {
+  background: #f9f9f9;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.contact-card {
+  background-color: #ffffff;
+  border-radius: 16px;
+  transition: box-shadow 0.3s;
+}
+
+.contact-card:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.contact-img {
+  max-width: 250px;
+  height: auto;
+}
+
+.form-label {
+  font-weight: 600;
+  color: #333;
+}
+
+.btn-dark {
+  background-color: #212529;
+  border: none;
+}
+
+.btn-dark:hover {
+  background-color: #000;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .contact-card {
+    padding: 2rem 1.5rem;
+  }
+
+  .contact-img {
+    max-width: 180px;
+  }
+}
+
+
+
